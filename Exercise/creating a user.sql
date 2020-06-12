@@ -1,0 +1,3 @@
+CREATE USER john IDENTIFIED BY '1234';
+
+SELECT * FROM mysql.user;
